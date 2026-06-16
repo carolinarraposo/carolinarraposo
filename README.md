@@ -14,11 +14,10 @@
 
 ## 👩‍💻 About me
 
-I'm a **Data Science & AI** student at Universidade da Beira Interior, passionate about transforming raw data into meaningful insights. My work spans machine learning, computer vision, and model interpretability — with a particular interest in building ethical and explainable AI systems.
 
 - 🎓 Studying at **Universidade da Beira Interior**
-- 🔭 Currently working on deepfake detection and ML interpretability
-- 🌱 Exploring **explainable AI**, **computer vision**, and **data pipelines**
+- 📚 Soon starting a MSc in **Data Science & Advanced Analytics**
+- 📊 Passionate about turning data into decisions
 - 📍 Portugal
 
 ---
@@ -42,7 +41,6 @@ I'm a **Data Science & AI** student at Universidade da Beira Interior, passionat
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **ML / AI**
 
@@ -63,18 +61,16 @@ I'm a **Data Science & AI** student at Universidade da Beira Interior, passionat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 </div>
 
 ---
 
 ## 📊 GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarraposo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
 
 <div align="center">
 
