@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Carolina%20Raposo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:7C3AED&height=180&section=header&text=Carolina%20Raposo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
