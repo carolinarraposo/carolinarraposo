@@ -14,8 +14,7 @@
 
 ## 👩‍💻 About me
 
-
-- 🎓 Studying at **Universidade da Beira Interior**
+- 🎓 Studying at **University of Beira Interior**
 - 📚 Soon starting a MSc in **Data Science & Advanced Analytics**
 - 📊 Passionate about turning data into decisions
 - 📍 Portugal
